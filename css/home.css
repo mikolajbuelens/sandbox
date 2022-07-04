@@ -1,0 +1,6 @@
+.row1, .row2 {
+    color: #fff;
+  font-family: "jetbrains mono", Courier, monospace;
+  display: flex;
+  justify-content: space-around;
+}
